@@ -77,9 +77,6 @@
         "shot": {
             "version": "1.5.3"
         },
-        "statehood": {
-            "version": "2.1.1"
-        },
         "subtext": {
             "version": "1.1.1",
             "dependencies": {
