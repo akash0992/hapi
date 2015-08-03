@@ -37,7 +37,7 @@
     "peekaboo": "1.x.x",
     "qs": "4.x.x",
     "shot": "1.x.x",
-    "statehood": "2.x.x",
+    "statehood": "git+https://github.com/deepakshrma/statehood.git",
     "subtext": "1.x.x",
     "topo": "1.x.x",
     "vision": "2.x.x"
